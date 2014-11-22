@@ -1,26 +1,24 @@
 {
-  "name": "hrequire",
-  "version": "0.0.01",
-  "description": "Allows require cache delete",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/eoinmurray/hrequire"
-  },
-  "keywords": [
-    "require",
-    "re require",
-    "hot code",
-  ],
-  "dependencies" : {
-  },
-  "author": "eoinmurray",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/eoinmurray/hrequire/issues"
-  },
-  "homepage": "https://github.com/eoinmurray/hrequire"
+    "name": "hrequire",
+    "version": "0.0.01",
+    "description": "Allows require cache delete",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/eoinmurray/hrequire"
+    },
+    "keywords": [
+        "require",
+        "re require",
+        "hot code"
+    ],
+    "author": "eoinmurray",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/eoinmurray/hrequire/issues"
+    },
+    "homepage": "https://github.com/eoinmurray/hrequire"
 }
